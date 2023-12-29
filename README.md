@@ -5,7 +5,7 @@ Flutter Developer
 -----------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://https://mannmeruliya-portfolio-web.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://mannmeruliya-portfolio-web.vercel.app/)
 * ✉️  You can contact me at [meruliyamann26100@gmail.com](mailto:meruliyamann26100@gmail.com)
 * 🧠  I'm learning Game Development
 
